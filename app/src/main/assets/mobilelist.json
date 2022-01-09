@@ -1,0 +1,28 @@
+[
+  {
+      "Id": "1234",
+    "name": "Samsung Galaxy",
+      "OS": "Android 10",
+    "status": "Available",
+    "size": "1600 x 800",
+    "review": 3.5,
+      "Price": 20,
+      "Currency": "USD",
+      "isFavorite": false,
+      "imageUrl": "https://i.picsum.photos/id/160/3200/2119.jpg?hmac=cz68HnnDt3XttIwIFu5ymcvkCp-YbkEBAM-Zgq-4DHE",
+      "Description": "Android OS"
+    },
+    {
+      "Id": "1235",
+      "name": "Nokia",
+      "OS": "Android 11",
+      "status": "Available",
+      "size": "1600 x 700",
+      "review": 4.0,
+      "Price": 200,
+      "Currency": "USD",
+      "isFavorite": false,
+      "imageUrl": "https://source.unsplash.com/user/c_v_r/100x100",
+      "Description": "Android OS"
+    }
+  ]
